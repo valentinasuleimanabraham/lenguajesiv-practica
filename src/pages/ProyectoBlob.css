@@ -1,0 +1,17 @@
+.proyecto {
+  text-align: center;
+  padding: 30px;
+}
+
+.proyecto button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #d8baf0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.proyecto button:hover {
+  background-color: #c59be6;
+}
