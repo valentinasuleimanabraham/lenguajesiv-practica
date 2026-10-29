@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lenguajesiv-practica/static/css/main.d2cc37ad.css",
+    "main.js": "/lenguajesiv-practica/static/js/main.120d2ebd.js",
+    "index.html": "/lenguajesiv-practica/index.html",
+    "main.d2cc37ad.css.map": "/lenguajesiv-practica/static/css/main.d2cc37ad.css.map",
+    "main.120d2ebd.js.map": "/lenguajesiv-practica/static/js/main.120d2ebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cc37ad.css",
+    "static/js/main.120d2ebd.js"
+  ]
+}
